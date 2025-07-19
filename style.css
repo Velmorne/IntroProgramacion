@@ -68,6 +68,5 @@ button:active {
     width: auto;
     height: auto;
     object-fit: cover;
-    object-fit: cover;
     z-index: -1;
 }
