@@ -42,24 +42,15 @@ button:active {
     box-shadow: 0 2px #787878;
     transform: translateY(3px);
 }
-.card1 {
+.joker {
     order: 1;
     border-radius: 10px;
-    perspective: 800px;
     cursor: pointer;
 }
 
-.card2 {
-    order: 2;
-    border-radius: 10px;
-    cursor: pointer;
-}
-
-.card3 {
-    order: 3;
-    border-radius: 10px;
-    cursor: pointer;
-}
+.card1 { order: 1; }
+.card2 { order: 2; }
+.card3 { order: 3; }
 
 .fondo {
     position: fixed;
