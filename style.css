@@ -43,7 +43,6 @@ button:active {
     transform: translateY(3px);
 }
 .joker {
-    order: 1;
     border-radius: 10px;
     cursor: pointer;
 }
